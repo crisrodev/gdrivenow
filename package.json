@@ -1,0 +1,23 @@
+{
+  "name": "gdrivenow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loader.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Cris Grego",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2017-node7": "^0.5.2",
+    "babel-preset-react": "^6.24.1",
+    "electron": "^1.6.7",
+    "electron-compilers": "^5.9.0"
+  },
+  "dependencies": {
+    "electron-compile": "^6.4.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-hot-loader": "^3.0.0-beta.7"
+  }
+}
