@@ -11,7 +11,7 @@
   "devDependencies": {
     "babel-preset-es2017-node7": "^0.5.2",
     "babel-preset-react": "^6.24.1",
-    "electron": "^1.6.7",
+    "electron": "^9.1.0",
     "electron-compilers": "^5.9.0"
   },
   "dependencies": {
